@@ -1,0 +1,198 @@
+{
+  "brand": "hubspot.com",
+  "query": "best CRM for small business",
+  "language": "en",
+  "country": "us",
+  "engines": [
+    "chatgpt",
+    "perplexity",
+    "claude",
+    "gemini",
+    "google-ai-overviews"
+  ],
+  "visibilityScore": 74,
+  "scoreByEngine": {
+    "chatgpt": 75,
+    "perplexity": 69,
+    "claude": 75,
+    "gemini": 75,
+    "google-ai-overviews": 75
+  },
+  "leaderboard": [
+    {
+      "rank": 1,
+      "domain": "hubspot.com",
+      "isBrand": true,
+      "score": 74,
+      "mentionRatePct": 100
+    },
+    {
+      "rank": 2,
+      "domain": "zoho.com",
+      "isBrand": false,
+      "score": 69,
+      "mentionRatePct": 100
+    },
+    {
+      "rank": 3,
+      "domain": "salesforce.com",
+      "isBrand": false,
+      "score": 67,
+      "mentionRatePct": 100
+    },
+    {
+      "rank": 4,
+      "domain": "pipedrive.com",
+      "isBrand": false,
+      "score": 67,
+      "mentionRatePct": 100
+    }
+  ],
+  "count": 2,
+  "results": [
+    {
+      "engine": "chatgpt",
+      "brandCited": true,
+      "brandInSources": false,
+      "brandNamedInAnswer": true,
+      "brandMentionRank": 1,
+      "brandUrls": [],
+      "competitors": [
+        {
+          "domain": "salesforce.com",
+          "cited": true,
+          "inSources": false,
+          "namedInAnswer": true
+        },
+        {
+          "domain": "pipedrive.com",
+          "cited": true,
+          "inSources": true,
+          "namedInAnswer": true
+        },
+        {
+          "domain": "zoho.com",
+          "cited": true,
+          "inSources": false,
+          "namedInAnswer": true
+        }
+      ],
+      "shareOfSources": [
+        {
+          "domain": "hubspot.com",
+          "hits": 0,
+          "sharePct": 0
+        },
+        {
+          "domain": "salesforce.com",
+          "hits": 0,
+          "sharePct": 0
+        },
+        {
+          "domain": "pipedrive.com",
+          "hits": 1,
+          "sharePct": 14.3
+        },
+        {
+          "domain": "zoho.com",
+          "hits": 0,
+          "sharePct": 0
+        }
+      ],
+      "citationCount": 7,
+      "citations": [
+        {
+          "url": "https://croclub.com/tools/best-crm-enterprise-software/",
+          "domain": "croclub.com",
+          "title": "21 Best CRM Enterprise Software Reviewed For 2026"
+        },
+        {
+          "url": "https://www.stacknpilot.com/articles/best-crm-for-small-businesses-2026-7-top-picks-compared",
+          "domain": "stacknpilot.com",
+          "title": "Best CRM for Small Businesses (2026): 7 Picks | StacknPilot"
+        },
+        {
+          "url": "https://www.pipedrive.com/de/blog/business-management-tools",
+          "domain": "pipedrive.com",
+          "title": "9 Business Management Tools für mehr Effizienz"
+        }
+      ],
+      "answer": "Selecting the right Customer Relationship Management (CRM) system is crucial for small businesses aiming to streamline operations and enhance customer interactions. Here are some top CRM options tailored for small businesses:\n\n\n[21 Best CRM Enterprise Software Reviewed For 2026](https://croclub.c...",
+      "latencyMs": 5010
+    },
+    {
+      "engine": "perplexity",
+      "brandCited": true,
+      "brandInSources": true,
+      "brandNamedInAnswer": true,
+      "brandMentionRank": 2,
+      "brandUrls": [
+        "https://blog.hubspot.com/sales/all-in-one-crm"
+      ],
+      "competitors": [
+        {
+          "domain": "salesforce.com",
+          "cited": true,
+          "inSources": true,
+          "namedInAnswer": true
+        },
+        {
+          "domain": "pipedrive.com",
+          "cited": true,
+          "inSources": false,
+          "namedInAnswer": true
+        },
+        {
+          "domain": "zoho.com",
+          "cited": true,
+          "inSources": false,
+          "namedInAnswer": true
+        }
+      ],
+      "shareOfSources": [
+        {
+          "domain": "hubspot.com",
+          "hits": 1,
+          "sharePct": 6.7
+        },
+        {
+          "domain": "salesforce.com",
+          "hits": 2,
+          "sharePct": 13.3
+        },
+        {
+          "domain": "pipedrive.com",
+          "hits": 0,
+          "sharePct": 0
+        },
+        {
+          "domain": "zoho.com",
+          "hits": 0,
+          "sharePct": 0
+        }
+      ],
+      "citationCount": 15,
+      "citations": [
+        {
+          "url": "https://crm.org/crmland/best-crm-for-small-business",
+          "domain": "crm.org",
+          "title": "Best CRM Software for Small Business in 2026"
+        },
+        {
+          "url": "https://www.pcmag.com/picks/the-best-small-business-crm-software",
+          "domain": "pcmag.com",
+          "title": "The Best Small Business CRM Software for 2026"
+        },
+        {
+          "url": "https://www.forbes.com/advisor/business/software/best-crm-small-business/",
+          "domain": "forbes.com",
+          "title": "10 Best Small Business CRM Software Of 2026"
+        }
+      ],
+      "answer": "There's no single winner for every business, but cross-referencing the major 2026 reviews, a few clear picks emerge:\n\n**Top pick: Bigin by Zoho CRM (~$7/user/month).** It's a PCMag Editors' Choice for small businesses, praised for flexible dashboards and ease of use [2][6], and it's the top-valid...",
+      "latencyMs": 15252
+    }
+  ],
+  "problems": [],
+  "notes": []
+}
